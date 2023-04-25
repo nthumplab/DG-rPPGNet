@@ -1,7 +1,8 @@
 # DG-rPPGNet
 
 This repository is the official implementation of *Domain Generalized RPPG Network: Disentangled Feature Learning with Domain Permutation and Domain Augmentation* that has been accepted to ACCV 2022.
-[Domain Generalized RPPG Network: Disentangled Feature Learning with Domain Permutation and Domain Augmentation.](https://openaccess.thecvf.com/content/ACCV2022/html/Chung_Domain_Generalized_RPPG_Network_Disentangled_Feature_Learning_with_Domain_Permutation_ACCV_2022_paper.html) (Oral) </br>
+
+[Domain Generalized RPPG Network: Disentangled Feature Learning with Domain Permutation and Domain Augmentation.](https://openaccess.thecvf.com/content/ACCV2022/html/Chung_Domain_Generalized_RPPG_Network_Disentangled_Feature_Learning_with_Domain_Permutation_ACCV_2022_paper.html) </br>
 
 ## Description
 
