@@ -24,7 +24,7 @@ The DG-rPPGNet and the rPPG estimator were trained with Nvidia RTX 2080 and RTX 
 ## Contributing
 
 If you find this work useful, consider citing our work using the following bibTex:
-
+```
 @inproceedings{chung2022domain,
   title={Domain Generalized RPPG Network: Disentangled Feature Learning with Domain Permutation and Domain Augmentation},
   author={Chung, Wei-Hao and Hsieh, Cheng-Ju and Liu, Sheng-Hung and Hsu, Chiou-Ting},
@@ -32,3 +32,5 @@ If you find this work useful, consider citing our work using the following bibTe
   pages={807--823},
   year={2022}
 }
+```
+
