@@ -8,9 +8,9 @@ We propose a DG-rPPGNet to generalize the rPPG estimation with different domains
 
 The proposed DG-rPPGNet including the disentanglement network, domain permutation strategy and augmented domain generalization strategy
 
-<img src="pipeline.PNG" width="800">
-<img src="domainpermutation.PNG" width="800">
-<img src="domainaugmentation.PNG" width="800">
+<img src="image/pipeline.png" width="800">
+<img src="image/domainpermutation.png" width="600">
+<img src="image/domainaugmentation.png" width="600">
 
 ## Implementation
 
